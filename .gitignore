@@ -5,7 +5,9 @@ src/main/webapp/WEB-INF/classes/
 build/
 .gradle/
 gradle/
+.idea/
 
+*.iml
 .classpath
 .project
 *.class
